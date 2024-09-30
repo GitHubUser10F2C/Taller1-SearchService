@@ -23,7 +23,7 @@ git clone https://github.com/GitHubUser10F2C/Taller1-SearchService.git
 2. Navigate to the project folder:
 
 ```
-cd searchApi
+cd .\Taller1-SearchService\
 ```
 
 3. Restore the project dependencies:
